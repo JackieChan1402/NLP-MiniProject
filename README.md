@@ -43,20 +43,24 @@ Follow these steps to run the language identification system:
 Clone this repository to your local machine:
 ```bash
 git clone YOUR_REPOSITORY_URL
+```
 #### Step 2: Navigate to the Project Directory
 ```bash
 cd language-identification-system
+```
 #### Step 3: Load the Dataset
 Ensure the dataset (language-detection.csv) is placed in the data folder.
 #### Step 4: Run the Script
 Execute the main script to train the model and test predictions:
 ```bash
 python scripts/main.py
+```
 #### Step 5: Predict a Language
 You can input a custom text to predict its language. Modify the predict function in the script:
 ```python
 text = "Pickleball" # Example input
 print(predict(text))
+```
 ### Implementation Details
 
 #### Data Preprocessing
