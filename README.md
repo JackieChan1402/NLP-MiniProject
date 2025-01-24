@@ -22,7 +22,7 @@ To run the project, ensure you have the following:
 You can install these dependencies using the command:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
-
+```
 ### Dataset
 
 The dataset used for this project contains approximately 10,000 samples of text in 17 different languages. Each sample includes the text and its corresponding language label.
