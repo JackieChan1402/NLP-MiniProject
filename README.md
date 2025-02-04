@@ -42,7 +42,7 @@ Follow these steps to run the language identification system:
 #### Step 1: Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/JackieChan1402/NLP-MiniProject.git
 ```
 #### Step 2: Navigate to the Project Directory
 ```bash
@@ -53,7 +53,7 @@ Ensure the dataset (language-detection.csv) is placed in the data folder.
 #### Step 4: Run the Script
 Execute the main script to train the model and test predictions:
 ```bash
-python scripts/main.py
+python NLP Language Identification System.py
 ```
 #### Step 5: Predict a Language
 You can input a custom text to predict its language. Modify the predict function in the script:
