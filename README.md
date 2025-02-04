@@ -46,7 +46,7 @@ git clone https://github.com/JackieChan1402/NLP-MiniProject.git
 ```
 #### Step 2: Navigate to the Project Directory
 ```bash
-cd language-identification-system
+cd NLP-MiniProject
 ```
 #### Step 3: Load the Dataset
 Ensure the dataset (language-detection.csv) is placed in the data folder.
